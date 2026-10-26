@@ -3,7 +3,7 @@
 An interactive, responsive Computer Science & AI quiz web application developed for **Lecture 10** coursework at JECRC University by **Anmol Kuckreja**.
 
 ## Live Application
-- **GitHub**: [ahttps://github.com/akuckreja08-hub]
+- **GitHub**: [https://github.com/akuckreja08-hub]
 ## Project Overview
 This project presents an interactive quiz testing core knowledge in modern software engineering, Large Language Models, code version control, testing strategies, and algorithmic complexity.
 
